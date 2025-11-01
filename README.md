@@ -29,7 +29,7 @@ O conteúdo, prompts e materiais foram gerados com apoio do **ChatGPT** e **Gamm
 ## 🔗 Links
 
 📘 **Acesse o eBook completo:**  
-👉 [E-book Descomplicando CSS] (https://github.com/julyribeiro/ebook-descomplicando-com-css/blob/main/ebook-final/Ebook-descomplicando-css-por-July-Ribeiro.pdf)
+👉 [E-book Descomplicando CSS](https://github.com/julyribeiro/ebook-descomplicando-com-css/blob/main/ebook-final/Ebook-descomplicando-css-por-July-Ribeiro.pdf)
 
 
 ## 🏁 Conclusão
